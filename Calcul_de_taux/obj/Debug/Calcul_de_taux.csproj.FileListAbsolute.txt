@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\bin\Debug\Calcul_de_taux.exe.config
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.Form1.resources
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.Properties.Resources.resources
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\bin\Debug\Calcul_de_taux.exe
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\bin\Debug\Calcul_de_taux.pdb
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.exe
+C:\Users\HP\Desktop\DUTIES\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.pdb
+D:\Train\Calcul_de_taux\Calcul_de_taux\bin\Debug\Calcul_de_taux.exe.config
+D:\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.exe
+D:\Train\Calcul_de_taux\Calcul_de_taux\obj\Debug\Calcul_de_taux.pdb
